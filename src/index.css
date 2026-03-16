@@ -1,0 +1,7 @@
+/* ── Tailwind CSS Directives ──────────────────────────────────────────────── */
+/* These three lines import all of Tailwind CSS into your project             */
+
+@tailwind base;       /* CSS reset + default browser styles                   */
+@tailwind components; /* Component classes (you can define reusable classes here) */
+@tailwind utilities;  /* All utility classes: bg-blue-500, text-xl, flex, etc. */
+
